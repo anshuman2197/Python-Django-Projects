@@ -1,1 +1,1 @@
-# Python-Django-Projects
+# Python-Django Tutorial
